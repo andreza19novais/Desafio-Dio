@@ -1,2 +1,2 @@
 # Desafio-DIO
-Metodologia de como ser posicionar em entrevistas no meio corporativo atualmente
+Metodologia de como se posicionar em entrevistas no meio corporativo atualmente.
